@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub MODIFIED BY AHSEN BEYZA OZKUL 150210312
+# :wave: The Basics of GitHub MODIFIED BY AHSEN BEYZA OZKUL, 150210312
 
 ## 🤓 Course overview and learning outcomes 
 
