@@ -9,3 +9,21 @@ h1 { color: red;
     background_color: lightgrey;
     font-weight: bold; }
     </style>
+    a:hover { text-decoration: none; }
+    li:first-child {
+      border: thick solid green;
+      margin-bottom: 1em;
+      margin-top: 1em;
+      padding: 1ex;
+      width : 40%; }
+
+      p centered {
+        text-align: center;
+        width: 50%; }
+
+        <body>
+        <p>
+        <strong> Introduction to Info Sys <strong/>
+        <p/>
+        <p class= "centered">
+        <em> Ahsen Özkul <br> 150210312 </em> </p>
